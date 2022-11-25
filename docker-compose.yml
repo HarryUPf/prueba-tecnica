@@ -1,0 +1,7 @@
+version: "3"
+services:
+  prueba-tecnica:
+    image: harry/prueba-tecnica:latest
+    ports:
+      - 8080:8080
+    restart: always
