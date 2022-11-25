@@ -11,7 +11,7 @@ ufw allow 8080
 
 ## Despliegue del Docker
 
-Ejecutar el archivo `docker-compose.yml`
+Ejecutar el archivo `dockerizar.sh`
 
 ## Uso del API
 > crear moneda PEN
